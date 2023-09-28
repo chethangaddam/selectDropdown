@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+}
+
+.countries-card {
+  background-color: #ffffff;
+  height: fit-content;
+}
